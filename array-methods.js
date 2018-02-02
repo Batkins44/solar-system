@@ -66,7 +66,7 @@ function onlyE(array){
 // function reduceSent(array){
 
 var totalSent = secSen.reduce(function(prev, curr) {
-    return (prev + curr);
+    return (prev +" " + curr);
 
 });
 // }
