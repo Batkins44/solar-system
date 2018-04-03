@@ -36,9 +36,7 @@ function reducePlug(y){
 
 
 
-function test(){
-    console.log("biiitch")
-}
+
 
 
 
